@@ -13,6 +13,7 @@ use Symfony\Component\DependencyInjection\Definition;
 use Symfony\Component\DependencyInjection\Reference;
 use Telephantast\Message\Message;
 use Telephantast\MessageBus\Handler;
+
 /**
  * @api
  */
